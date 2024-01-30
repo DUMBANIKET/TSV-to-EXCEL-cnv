@@ -1,6 +1,13 @@
 # TSV-to-EXCEL-Converter
 ### An easy to use CLI based file converter from tsv to xlsx
 
++ Install this package by running
+```
+ pip install XlsxWriter 
+```
+
+<hr>
+
 - Do this [✅]
 ``` python main.py -i name.tsv ```
 or 
